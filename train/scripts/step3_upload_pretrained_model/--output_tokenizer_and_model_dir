@@ -1,0 +1,5 @@
+
+ucllm_nedo_dev_train_dir = /home/ext_m_kikuchi333_gmail_com/ucllm_nedo_dev/train
+megatron_deepspeed_dir = /home/ext_m_kikuchi333_gmail_com/ucllm_nedo_dev/train/Megatron-DeepSpeed
+
+Unknown parameter passed: /home/ext_m_kikuchi333_gmail_com/ucllm_nedo_dev/train/output/step1_train_tokenizer/botchan/botchan.model
